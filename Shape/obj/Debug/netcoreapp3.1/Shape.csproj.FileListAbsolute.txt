@@ -1,0 +1,17 @@
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.exe
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.deps.json
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.json
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.dev.json
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.dll
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.pdb
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\ShapeLibrary.dll
+C:\AshtonProject\Shape\Shape\bin\Debug\netcoreapp3.1\ShapeLibrary.pdb
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.csproj.AssemblyReference.cache
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfoInputs.cache
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfo.cs
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.csproj.CoreCompileInputs.cache
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.csproj.CopyComplete
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.dll
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.pdb
+C:\AshtonProject\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.genruntimeconfig.cache

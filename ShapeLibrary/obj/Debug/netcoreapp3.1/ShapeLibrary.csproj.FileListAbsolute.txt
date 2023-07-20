@@ -1,0 +1,10 @@
+C:\AshtonProject\Shape\ShapeLibrary\bin\Debug\netcoreapp3.1\ShapeLibrary.deps.json
+C:\AshtonProject\Shape\ShapeLibrary\bin\Debug\netcoreapp3.1\ShapeLibrary.dll
+C:\AshtonProject\Shape\ShapeLibrary\bin\Debug\netcoreapp3.1\ShapeLibrary.pdb
+C:\AshtonProject\Shape\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.csproj.AssemblyReference.cache
+C:\AshtonProject\Shape\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\AshtonProject\Shape\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.AssemblyInfoInputs.cache
+C:\AshtonProject\Shape\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.AssemblyInfo.cs
+C:\AshtonProject\Shape\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\AshtonProject\Shape\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.dll
+C:\AshtonProject\Shape\ShapeLibrary\obj\Debug\netcoreapp3.1\ShapeLibrary.pdb
