@@ -11,7 +11,7 @@ INSERT INTO Product (NAME) VALUES('Круассан')
 INSERT INTO Product (NAME) VALUES('Молоко')
 INSERT INTO Product (NAME) VALUES('Огурцы')
 
---Таблица для категорийdп
+--Таблица для категорий 2
 CREATE TABLE Category (
 	ID INT PRIMARY KEY IDENTITY(1,1), 
 	[NAME] VARCHAR(100) 
